@@ -3,3 +3,8 @@ def get_area(lado:int) -> int:
 
 def idfentificador() -> str:
 	return "cuadrado"
+
+def get_perimetro(lado:int) -> int:
+        return 4*lado
+
+
